@@ -1,32 +1,28 @@
 # :eyes: Chroma Lens
 색약자를 위한 이미지 색채 감지 프로젝트
 
-[시연 영상](https://youtu.be/LGonUX21H74?si=dQ_ppYYV4lpNIowc)
-
 ---
-### 개요
-- S/W 개발환경
+### 목차
+- 프로젝트 개요
 - 개발 배경 및 필요성
 - 프로그램 특장점
 - 설계도
 - 모델 구현
 - 기대효과 및 활용분야
 ---
-### S/W 개발환경
-##### OS
-- Window10
 
-##### 개발환경(IDE)
-- Google COLAB
-- Pycharm
+### 프로젝트 개요
 
-##### 개발도구
-- YOLOv8m
-- Roboflow
-- Django
+- 개발 기간: 2023. 06. ~ 2023. 06
+- 개발 인원: 2
+- 개발 언어: Python
+- Dataset: [Roboflow](https://universe.roboflow.com/msa-ciwxj/yoon-2)
+- Model: Yolov8m
+- Framework: Django
+- IDE: Google COLAB, Pycharm
+- Library: OpenCV, PIL
+- [시연 영상](https://youtu.be/LGonUX21H74)
 
-##### 개발언어
-- Python
 ---
 ### 개발 배경 및 필요성
 ##### 개발 배경
